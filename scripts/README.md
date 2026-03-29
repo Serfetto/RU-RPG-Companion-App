@@ -84,6 +84,11 @@ python scripts/dndsu_character_sheet_sections_translator.py "../rpg-companion-ap
 python scripts/dndsu_character_stats_translator.py "../rpg-companion-app-systems/systems-ru/5e/system/character_stats.rpgs" --in-place
 ```
 
+### System rpg
+```bash
+python scripts/dndsu_system_rpg_json_translator.py "../rpg-companion-app/systems-ru/5e/system/system.rpg.json" --in-place
+```
+
 ## Output mode
 
 If you do not want to overwrite the original files, use `--out-dir translated` instead of `--in-place` where supported.
