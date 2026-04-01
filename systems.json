@@ -2,9 +2,9 @@
   "systems": [
     {
       "id": "5e-ru",
-      "name": "5e-ru",
-      "abbreviation": "5e-ru",
-      "version": "0.6.1",
+      "name": "5e RU",
+      "abbreviation": "5e-RU",
+      "version": "0.6.2",
       "min_app_version": "1.0.0",
       "path": "5e"
     }
